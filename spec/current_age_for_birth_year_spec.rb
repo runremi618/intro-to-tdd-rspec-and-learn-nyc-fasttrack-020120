@@ -1,7 +1,5 @@
 age_of_person = current_age_for_birth_year(1984)
-def age_of_person
-  puts 19
+age = current_age_for_birth_year(0)
+def current_age_for_birth_year(1984)
+
 end
-
-
-current_age_for_birth_year(1984)
